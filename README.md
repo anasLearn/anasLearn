@@ -40,4 +40,4 @@
   <a href="https://github.com/anasLearn/github-readme-stats"><img alt="anasLearn's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasLearn&layout=compact" /></a>
 <br/>
 
-![Profile views](https://gpvc.arturio.dev/anasLearn)
+
