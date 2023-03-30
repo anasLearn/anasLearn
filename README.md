@@ -4,7 +4,17 @@
 
 ### <div align="center">I'm Anas Aamoum, a Computer Engineer🚀</div>  
 
-<a href="https://app.daily.dev/anasLearn"><img src="https://api.daily.dev/devcards/4e5ebeb57d244d34978eb04aa2d2758b.png?r=h5a" width="400" alt="Anas Aamoum's Dev Card"/></a>
+<div align="left">
+  <a href="https://app.daily.dev/anasLearn" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://api.daily.dev/devcards/4e5ebeb57d244d34978eb04aa2d2758b.png?r=h5a"
+    />
+  </a>
+</div>
+
+<br />
   
 ## 🤵 About Me 
 <br>I currently work as a Python developer. My main interests are machine learning and data science<br>
