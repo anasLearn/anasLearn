@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
 
-### <div align="center">I'm Anas Aamoum, a Computer Engineer🚀</div>  
+### <div align="right">I'm Anas Aamoum, a Computer Engineer🚀</div>  
 
 <div align="left">
   <a href="https://app.daily.dev/anasLearn" target="_blank">
@@ -17,7 +17,7 @@
 <br />
   
 ## 🤵 About Me 
-<br>I currently work as a Python developer. My main interests are machine learning and data science<br>
+<br>I currently work as a Python developer. My main interests are mathematics, machine learning and AI<br>
 
 
 ## 💻 Technologies  
