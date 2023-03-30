@@ -2,8 +2,11 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
 
-### <div align="left">I'm Anas Aamoum, a Computer Engineer🚀</div>  
+### <div align="center">I'm Anas Aamoum, a Computer Engineer🚀</div>  
 
+
+  
+## 🤵 About Me 
 <div align="left">
   <a href="https://app.daily.dev/anasLearn" target="_blank">
     <img
@@ -15,8 +18,6 @@
 </div>
 
 <br />
-  
-## 🤵 About Me 
 <br>I currently work as a Python developer. My main interests are mathematics, machine learning and AI<br>
 
 
