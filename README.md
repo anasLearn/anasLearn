@@ -49,8 +49,8 @@
 ## 📊 My Github Stats
 
  <br/>
-    <a href="https://github.com/anasLearn/github-readme-stats"><img alt="anasLearn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anasLearn&show_icons=true&count_private=true" /></a>
-  <a href="https://github.com/anasLearn/github-readme-stats"><img alt="anasLearn's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasLearn&layout=compact" /></a>
+    <a href="https://github.com/anasLearn/github-readme-stats"><img alt="anasLearn's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anasLearn&show_icons=true&count_private=true" /></a>
+  <a href="https://github.com/anasLearn/github-readme-stats"><img alt="anasLearn's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anasLearn&layout=compact" /></a>
 <br/>
 
 
