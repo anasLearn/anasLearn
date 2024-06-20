@@ -7,18 +7,9 @@
 
   
 ## 🤵 About Me 
-<div align="left">
-  <a href="https://app.daily.dev/anasLearn" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="devcard.svg"
-    />
-  </a>
-</div>
 
 <br />
-<br>I currently work as a Python developer. My main interests are mathematics, machine learning and AI<br>
+<br>I currently work as a Python developer. My main interests are mathematics, machine learning and backend development<br>
 
 
 ## 💻 Technologies  
@@ -51,7 +42,7 @@
 
  <br/>
     <a href="https://github.com/anasLearn/github-readme-stats"><img alt="anasLearn's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anasLearn&show_icons=true&count_private=true" /></a>
-  <a href="https://github.com/anasLearn/github-readme-stats"><img alt="anasLearn's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anasLearn&layout=compact" /></a>
+    <a href="https://github.com/anasLearn/github-readme-stats"><img alt="anasLearn's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anasLearn&layout=compact" /></a>
 <br/>
 
 
