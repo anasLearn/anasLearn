@@ -6,8 +6,7 @@
 
 
   
-## 🤵 About Me 
-
+## 🤵 About Me
 <br />
 <br />
 I currently work as a <strong>Python backend developer</strong>
@@ -47,7 +46,7 @@ I am also interested in:
 
 <br/>  
 
-
+<!--
 ## 📊 My Github Stats
 
  <br/>
@@ -55,4 +54,4 @@ I am also interested in:
     <a href="https://github.com/anasLearn/github-readme-stats"><img alt="anasLearn's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anasLearn&layout=compact" /></a>
 <br/>
 
-
+-->
