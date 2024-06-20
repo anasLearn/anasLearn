@@ -9,7 +9,10 @@
 ## 🤵 About Me 
 
 <br />
-<br>I currently work as a **Python backend developer**<br>
+<br />
+I currently work as a **Python backend developer**
+<br />
+<br />
 
 I am also interested in:
   * Mathematics
