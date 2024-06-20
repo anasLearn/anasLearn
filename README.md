@@ -9,7 +9,14 @@
 ## 🤵 About Me 
 
 <br />
-<br>I currently work as a Python developer. My main interests are mathematics, machine learning and backend development<br>
+<br>I currently work as a **Python backend developer**<br>
+
+I am also interested in:
+  * Mathematics
+  * Algorithms
+  * Machine Learning
+  * Robotics
+  * Embedded Development
 
 
 ## 💻 Technologies  
