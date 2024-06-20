@@ -10,7 +10,7 @@
 
 <br />
 <br />
-I currently work as a **Python backend developer**
+I currently work as a <strong>Python backend developer</strong>
 <br />
 <br />
 
