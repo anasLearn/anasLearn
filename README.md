@@ -2,20 +2,16 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
 
-### <div align="center">I'm Anas Aamoum, a Computer Engineer🚀</div>  
+### <div align="center">I'm Anas Aamoum, a Software Engineer🚀</div>  
 
 
   
 ## 🤵 About Me
-<br />
-<br />
-I currently work as a <strong>Python backend developer</strong>
-<br />
-<br />
 
-I am also interested in:
+I am mainly interested in:
   * Mathematics
   * Algorithms
+  * Backend Development
   * Machine Learning
   * Robotics
   * Embedded Development
