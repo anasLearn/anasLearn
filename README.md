@@ -18,7 +18,7 @@ I am mainly interested in:
 
 
 ## 💻 Technologies  
-<div align="center" style="display: flex; flex-wrap: nowrap; gap: 6px; justify-content: center;">
+<div align="center" style="display: flex; flex-wrap: nowrap; gap: 8px; overflow-x: auto; padding: 5px;">
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://numpy.org/" target="_blank"><img  src="https://github.com/numpy/numpy/raw/main/branding/logo/logomark/numpylogoicon.png" alt="Numpy"  width="40" height="40" /></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/800px-Pandas_mark.svg.png" alt="Pandas"  width="40" height="40" /></a>
