@@ -16,8 +16,6 @@ I am mainly interested in:
   * Robotics
   * Embedded Development
 
-
-## 💻 Technologies  
 ## 💻 Technologies  
 <p align="center">
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
